@@ -1,0 +1,37 @@
+.cal {
+    width: 250px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+     margin: auto;
+     
+    
+}
+.h1,:hover{
+    background-color: black;
+}
+
+.a,:hover{
+    color:rgb(13, 153, 200);
+}
+#display{
+    width: 100%;
+    padding: 7px;
+
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 0;
+    margin: 2px;
+    color: blue;
+}
+.b,:hover{
+     color:rgb(13, 153, 200);
+}
+
+
